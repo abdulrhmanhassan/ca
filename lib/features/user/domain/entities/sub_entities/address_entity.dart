@@ -1,4 +1,4 @@
-import 'sub_geo.dart';
+import 'geo_entity.dart';
 
 class AddressEntity {
   final String street;
